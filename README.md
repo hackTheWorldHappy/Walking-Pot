@@ -19,6 +19,9 @@ Besides that my plants are not living the best life (weak lightning), I want to 
 Maybe that's the only way my plants can survive :)
 My Idea was, to set WaPo on the Ground power it on and see where it goes to find the best Spot.
 
+## How to Build your Own WaPo?
+You can build your own WaPo by following these instructions: [INSTRUCTIONS.md](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/INSTRUCTIONS.md)
+
 ## Visuals
 **Assembled 3D model**
 
