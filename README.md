@@ -41,11 +41,6 @@ My Idea was, to set WaPo on the Ground power it on and see where it goes to find
 
 <br>
 
-## BOM
-View the BOM: [BOM.md](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM.md)
-
-View the BOM as CSV: [BOM.csv](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM.csv)
-
 ## Zine
 
 <img width="50%" max-width="540px" height="auto" alt="image" src="https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/zine.png" />
@@ -71,6 +66,8 @@ Actual Total* | | ~102,56€ | ~119.33$
 
 *Actual Total: Cost including shipping and actual package size (Screws/Nuts come in 50PCS, Light resistors in 10)
 
+View the PCB BOM as CSV: [BOM-PCB.csv](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM-PCB.csv) <br>
+View the BOM as CSV: [BOM-all.csv](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM-all.csv)
 
 ---
 
