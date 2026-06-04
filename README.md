@@ -67,7 +67,7 @@ Actual Total* | | ~102,56€ | ~119.33$
 *Actual Total: Cost including shipping and actual package size (Screws/Nuts come in 50PCS, Light resistors in 10)
 
 View the PCB BOM as CSV: [BOM-PCB.csv](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM-PCB.csv) <br>
-View the BOM as CSV: [BOM-all.csv](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM-all.csv)
+View the BOM as CSV: [BOM.csv](https://github.com/hackTheWorldHappy/Walking-Pot/blob/main/BOM.csv)
 
 ---
 
